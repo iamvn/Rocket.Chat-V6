@@ -30,7 +30,7 @@ You can follow these instructions to setup a dev environment:
 - Install **Node 14.x (LTS)** either [manually](https://nodejs.org/dist/latest-v14.x/) or using a tool like [nvm](https://github.com/creationix/nvm) (recommended)
 - Install **Meteor**: https://www.meteor.com/developers/install
 - Install **yarn**: https://yarnpkg.com/getting-started/install
-- Clone this repo: `git clone https://github.com/RocketChat/Rocket.Chat.git`
+- Clone this repo: `git clone https://github.com/iamvn/Rocket.Chat-V6.git`
 - Run `yarn` to install dependencies
 
 ### Starting Rocket.Chat
